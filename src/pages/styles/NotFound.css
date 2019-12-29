@@ -1,0 +1,15 @@
+.NotFound__Container {
+    padding-top: 25px;
+    background-color: #0c263d;
+    height: calc(100vh - 48px - 16px);
+}
+
+.NotFound__Container img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.NotFound__Text {
+    color: #ffffff;
+    padding-top: 15px;
+}

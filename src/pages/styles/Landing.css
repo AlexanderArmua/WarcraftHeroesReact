@@ -1,0 +1,22 @@
+.Lading__Container {
+    width: 100%;
+    background: url('../../images/wallpaper_DK_Hero.jpg'), #1B1B25;
+    background-position: center;
+    background-size: cover;
+    height: calc(100vh - 48px - 16px);
+    overflow: hidden;
+}
+
+.Lading__Img {
+    width: 100%;
+}
+
+.my-auto {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.Lading__Text {
+    color: #ffffff;
+    text-align: center;
+}

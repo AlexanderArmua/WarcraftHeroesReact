@@ -1,0 +1,24 @@
+.BadgeList__Avatar {
+    background-size: cover;
+    background-position: top;
+}
+
+.BadgeList .bg-primary:hover {
+    background-color: #1A237E !important;
+}
+
+.BadgeList .bg-danger:hover {
+    background-color: #B71C1C !important;
+}
+
+.BadgeList__Image {
+    position: absolute;
+    z-index: 1;
+    right: 10px;
+    bottom: 10px;
+    height: 84px;
+}
+
+.BadgeList__Image>img {
+    height: 100%;
+}
